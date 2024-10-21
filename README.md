@@ -1,5 +1,9 @@
 # 💫About Me :
-Hi ! My name is Nguyen An Duc. I am studying at University of Information Technology
+Hi ! My name is Nguyen An Duc. I am studying at University of Information Technology !!!
+
+![image](https://github.com/user-attachments/assets/4d48dd76-49af-4f32-87f1-7a15eb5de17f)
+
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguynduc611/?locale=vi_VN) 
