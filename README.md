@@ -16,3 +16,7 @@ Hi ! My name is Nguyen An Duc. I am studying at University of Information Techno
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenDuc061104&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Meme Quote
+![image](https://github.com/user-attachments/assets/de8a2cca-727e-4e59-9f27-bd32591df2f2)
+
