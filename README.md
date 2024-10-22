@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi ! My name is Nguyen An Duc. I am studying at University of Information Technology !!!
+Hi ! My name is Duc. I am studying at University of Information Technology !!!
 
 ![image](https://github.com/user-attachments/assets/4d48dd76-49af-4f32-87f1-7a15eb5de17f)
 
